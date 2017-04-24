@@ -31,9 +31,9 @@ Vinapp
 
 
 
-##Vinapp idè og historie
+## Vinapp idè og historie
 ![alt tag](https://cloud.githubusercontent.com/assets/1454269/23453078/3813df0e-fe67-11e6-89ce-09fd380932a3.png)
-##Vinlotteriet i dag
+## Vinlotteriet i dag
 * Manuell registrering
 * Betaling basert på tillit
 * Krever oppmøte på kontoret eller PA
@@ -41,5 +41,5 @@ Vinapp
 * Tar seg dårlig ut i et konsulentselskap
 ![alt tag](https://cloud.githubusercontent.com/assets/1454269/23453079/381673fe-fe67-11e6-930c-669c8c15aa17.jpg)
 
-##Arkitektur
+## Arkitektur
 ![alt tag](https://cloud.githubusercontent.com/assets/1454269/23453080/38168c54-fe67-11e6-948e-d44f123e3ada.png)
